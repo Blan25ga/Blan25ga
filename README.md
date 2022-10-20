@@ -11,7 +11,7 @@
 - 👯 I am looking to collaborate on any project that increases my knowledge.
 - 🤔 I am looking for help in finding a permanent job.
 - 💬 Ask me about anything, the idea is to help as much as possible!!!!
-- 📫 How to contact me: <a href=”mailto:gabriel.bl@hotmail.com.ar»> Gabriel Blanco </a>
+- 📫 How to contact me, click 👉 <a href="mailto:gabriel.bl@hotmail.com.ar"> Gabriel Blanco </a>
 - ⚡ Fun fact: I love looking for new knowledge alternatives.
 
  <tr>
