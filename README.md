@@ -1,33 +1,32 @@
 
 <h1> Hello, I'm Gabriel! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">👦</h1>
 <img src="https://media.giphy.com/media/sk6yL9EGVeAcE/giphy.gif" width= 100% />
+
+<table width="100%"  border="0" cellpadding="0" cellspacing="0">
+
+<h2>A little more about me:</h2>
+
+- 🔭 I am currently working as a FreeLancer.
+- 🌱 I am currently perfecting myself in the BackEnd area.
+- 👯 I am looking to collaborate on any project that increases my knowledge.
+- 🤔 I am looking for help in finding a permanent job.
+- 💬 Ask me about anything, the idea is to help as much as possible!!!!
+- 📫 How to contact me: <a href=”mailto:gabriel.bl@hotmail.com.ar»> Gabriel Blanco </a>
+- ⚡ Fun fact: I love looking for new knowledge alternatives.
+
  <tr>
     <td alinear="centro">
       <img align="left" src="https://github-readme-stats.vercel.app/api?username=Blan25ga&show_icons=true&theme=dracula" />
     </td>
     <td alinear="centro">
         <img src="https://github.com/Blan25ga/Blan25ga/blue/master/globe.gif?raw=true" />
-        <!-- <span>          </span>
-        <span>          </span>
-        <br>
-         <strong>Visite mi sitio web personal</strong> -->
     </td>
-  </tr>
-</tabla>
+ </tr>
+ 
+ </table>
 
+## 𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Blan25ga.Blan25ga)
+</br>
 ⭐️ De [ Blan25ga ](https://github.com/Blan25ga)
-<!--
-<h2>
-**Blan25ga/Blan25ga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-</h2> 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
