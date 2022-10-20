@@ -1,5 +1,5 @@
 
-<h1> Hello, I'm Gabriel! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">👦</h1>
+<h1> Hello, I'm Gabriel! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1>
 <img src="https://media.giphy.com/media/sk6yL9EGVeAcE/giphy.gif" width= 100% />
 
 <table width="100%"  border="0" cellpadding="0" cellspacing="0">
