@@ -15,24 +15,6 @@
 - ⚡ Fun fact: I love looking for new knowledge alternatives.
 
   
-<div id="contador-visitas"></div>
-
-function obtenerContadorVisitas(usuario) {
-  const url = `https://img.shields.io/github/followers/${usuario}?label=Visitas&style=social`;
-  
-  fetch(url)
-    .then(response => response.text())
-    .then(data => {
-      const contadorVisitas = data.match(/>([^<]+)</)[1];
-      document.getElementById("contador-visitas").textContent = contadorVisitas;
-    })
-    .catch(error => {
-      console.error("No se pudo obtener el contador de visitas:", error);
-    });
-}
-
-const usuario = "Blan25ga";
-obtenerContadorVisitas(usuario);
 
  <tr>
     <td alinear="centro">
