@@ -15,7 +15,6 @@
 - ⚡ Fun fact: I love looking for new knowledge alternatives.
 
   
-
  <tr>
     <td alinear="centro">
       <img align="left" src="https://github-readme-stats.vercel.app/api?username=Blan25ga&show_icons=true&theme=dracula" />
