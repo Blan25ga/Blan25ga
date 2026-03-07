@@ -6,11 +6,12 @@
 
 <h2>A little more about me:</h2>
 
-- 🔭 I am currently working as a FreeLancer.
-- 🌱 I am currently perfecting myself in the BackEnd area.
-- 👯 I am looking to collaborate on any project that increases my knowledge.
-- 🤔 I am looking for help in finding a permanent job.
-- 💬 Ask me about anything, the idea is to help as much as possible!!!!
+- 🌍 I started my programming journey in **2022**, learning **HTML, CSS, and JavaScript**.  
+- ✈️ In **2023 and 2024**, I traveled through **Australia**, which paused my GitHub activity but enriched my personal and professional growth.  
+- 🔄 In **November 2025**, I resumed my studies with great enthusiasm, focusing on **C# and .NET** to build more robust and scalable projects.  
+- 🚀 I am motivated by practical learning, understanding the logic behind each step, and creating well-structured solutions.  
+- 🤝 I am looking forward to collaborating on projects that help me grow and share knowledge with the community.  
+- 💬 I believe every error is an opportunity to learn, and each iteration brings me closer to a better result.
 - 📫 How to contact me, click 👉 <a href="mailto:gabriel.bl@hotmail.com.ar"> Gabriel Blanco </a>
 - ⚡ Fun fact: I love looking for new knowledge alternatives.
 
