@@ -15,16 +15,7 @@
 ---
 
 <table width="100%" border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td align="center" width="50%">
-      <!-- Estadísticas de GitHub -->
-      <img src="https://github-readme-stats.vercel.app/api?username=Blan25ga&show_icons=true&theme=dracula" />
-    </td>
-    <td align="center" width="50%">
-      <!-- Globo animado -->
-      <img src="https://github.com/Blan25ga/Blan25ga/blob/main/blue/globe.gif?raw=true" width="200px" />
-    </td>
-  </tr>
+
 </table>
 
 </br>
