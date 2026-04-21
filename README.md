@@ -1,6 +1,7 @@
 <h1> Hello, I'm Gabriel! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1>
 <img src="https://media.giphy.com/media/sk6yL9EGVeAcE/giphy.gif" width="100%" />
 
+
 <h2>A little more about me:</h2>
 
 - 🌍 I started my programming journey in **2022**, learning **HTML, CSS, and JavaScript**.  
@@ -17,7 +18,9 @@
 <table width="100%" border="0" cellpadding="0" cellspacing="0">
 
 </table>
-
 </br>
+
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Blan25ga?cardType=octocat&theme=cobalt&fontFamily=Aleo&preferLogin=false)](https://git.io/awesome-stats-card)
+
 ⭐️ De [ Blan25ga ](https://github.com/Blan25ga)
 
