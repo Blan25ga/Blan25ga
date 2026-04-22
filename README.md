@@ -20,7 +20,7 @@
 </table>
 </br>
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Blan25ga?cardType=octocat&theme=cobalt&fontFamily=Aleo&preferLogin=false)](https://git.io/awesome-stats-card)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Blan25ga?cardType=github&theme=github-dark&fontFamily=Aleo&preferLogin=false)](https://git.io/awesome-stats-card)
 
 ⭐️ De [ Blan25ga ](https://github.com/Blan25ga)
 
