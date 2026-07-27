@@ -4,7 +4,7 @@
 
 <h2>A little more about me:</h2>
 
-- 🌍 I started my programming journey in **2022**, learning **HTML, CSS, and JavaScript**.  
+- 🌍 I started my programming journey in **2021**, learning **HTML, CSS, and JavaScript**.  
 - ✈️ In **2022 and 2024**, I traveled through **Australia**, which paused my GitHub activity but enriched my personal and professional growth.  
 - 🔄 In **November 2025**, I resumed my studies with great enthusiasm, focusing on **C# and .NET** to build more robust and scalable projects.  
 - 🚀 I am motivated by practical learning, understanding the logic behind each step, and creating well-structured solutions.  
