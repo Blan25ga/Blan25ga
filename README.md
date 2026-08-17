@@ -1,26 +1,37 @@
-<h1> Hello, I'm Gabriel! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1>
-<img src="https://media.giphy.com/media/sk6yL9EGVeAcE/giphy.gif" width="100%" />
+# ¡Hola! Soy Gabriel Blanco 👋
 
-
-<h2>A little more about me:</h2>
-
-- 🌍 I started my programming journey in **2021**, learning **HTML, CSS, and JavaScript**.  
-- ✈️ In **2022 and 2024**, I traveled through **Australia**, which paused my GitHub activity but enriched my personal and professional growth.  
-- 🔄 In **November 2025**, I resumed my studies with great enthusiasm, focusing on **C# and .NET** to build more robust and scalable projects.  
-- 🚀 I am motivated by practical learning, understanding the logic behind each step, and creating well-structured solutions.  
-- 🤝 I am looking forward to collaborating on projects that help me grow and share knowledge with the community.  
-- 💬 I believe every error is an opportunity to learn, and each iteration brings me closer to a better result.  
-- 📫 How to contact me, click 👉 <a href="mailto:gabriel.bl@hotmail.com.ar"> Gabriel Blanco </a>  
-- ⚡ Fun fact: I love looking for new knowledge alternatives.  
+Desarrollador de Software apasionado por la construcción de arquitecturas limpias, backend robusto y soluciones escalables. Cuento con experiencia previa en **liderazgo de equipos y gestión operativa**, lo que me permite conectar la visión estratégica de un proyecto con su implementación técnica.
 
 ---
 
-<table width="100%" border="0" cellpadding="0" cellspacing="0">
+### 💻 Stack & Tecnologías Principales
 
-</table>
-</br>
+- **Lenguajes:** C#, JavaScript, HTML5, CSS3
+- **Frameworks & Backend:** React / .NET Framework / .NET, ASP.NET Core, Windows Forms
+- **Bases de Datos:** SQL Server
+- **Herramientas & Entornos:** Git, GitHub, Visual Studio, Visual Studio Code, Windows Administration
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Blan25ga?cardType=github&theme=github-dark&fontFamily=Aleo&preferLogin=false)](https://git.io/awesome-stats-card)
+---
 
-⭐️ De [ Blan25ga ](https://github.com/Blan25ga)
+### 🚀 Sobre mí & Trayectoria
 
+- 🎯 **Enfoque actual:** Profundizando en el ecosistema **C# .NET** y desarrollo backend con **SQL Server**.
+- 🛠️ **Perfil técnico-operativo:** Ex Subgerente de Operaciones y Líder de Equipos; me especializo en optimizar procesos, documentar con claridad y aplicar metodologías iterativas.
+- ✈️ **Experiencia internacional:** Viví en Australia (2023–2024), lo que enriqueció mis habilidades blandas, adaptabilidad y comunicación intercultural.
+- 📚 **Metodología de trabajo:** Disfruto entender la lógica profunda detrás de cada herramienta y construir soluciones didácticas y eficientes.
+
+---
+
+### 📂 Proyectos Destacados
+
+* [CatalogoApp](https://github.com/Blan25ga/CatalogoApp): Aplicación de escritorio en C# (Windows Forms) vinculada a SQL Server para gestión completa de artículos.
+* [C-Nivel3-Web.Net](https://github.com/Blan25ga/C-Nivel3-Web.Net): Proyecto web con ASP.NET para desarrollo backend escalable.
+* [portfolio-act](https://github.com/Blan25ga/portfolio-act): Portafolio y proyectos web con HTML, CSS y JavaScript.
+
+---
+
+### 📫 Contacto & Redes
+
+- 💼 **LinkedIn:** [Gabriel Blanco](https://www.linkedin.com/in/gabrielhernanblanco/)
+- 🐙 **GitHub:** [Blan25ga](https://github.com/Blan25ga)
+- 📍 **Ubicación:** San Antonio de Padua, Buenos Aires, Argentina
