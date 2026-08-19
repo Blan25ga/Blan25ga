@@ -24,9 +24,9 @@ Desarrollador de Software apasionado por la construcción de arquitecturas limpi
 
 ### 📂 Proyectos Destacados
 
-* [CatalogoApp](https://github.com/Blan25ga/CatalogoApp): Aplicación de escritorio en C# (Windows Forms) vinculada a SQL Server para gestión completa de artículos.
-* [C-Nivel3-Web.Net](https://github.com/Blan25ga/C-Nivel3-Web.Net): Proyecto web con ASP.NET para desarrollo backend escalable.
-* [portfolio-act](https://github.com/Blan25ga/portfolio-act): Portafolio y proyectos web con HTML, CSS y JavaScript.
+* [Portfolio](https://portafolio-actualizado.netlify.app/): Portafolio Personal actualizado.
+* [Pokedex](https://pokedex-po.netlify.app/): Proyecto web realizado con HTML, CSS Y JavaScript.
+* [Clima-App](https://appclima-1.netlify.app/)Proyecto de lectura climática con utilización de API.
 
 ---
 
