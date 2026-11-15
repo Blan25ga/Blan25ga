@@ -6,7 +6,7 @@
 
 <p>
   <img src="https://img.shields.io/badge/📍_Ubicación-Buenos_Aires,_Argentina-0078D4?style=for-the-badge&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/💼_LinkedIn-gabrielhernanblanco-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117"/>
+  <a href="https://www.linkedin.com/in/gabrielhernanblanco/" target="_blank"><img src="https://img.shields.io/badge/💼_LinkedIn-gabrielhernanblanco-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117"/></a>
   <img src="https://komarev.com/ghpvc/?username=Blan25ga&style=for-the-badge&color=0078D4&labelColor=0D1117&label=PROFILE+VIEWS"/>
 </p>
 
