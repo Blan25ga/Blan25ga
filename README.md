@@ -76,10 +76,10 @@ Contacto: linkedin.com/in/gabrielhernanblanco
 <tr>
 <td width="50%" valign="top">
 
-### ⚽ [Gestión Club — TP Final Nivel 3](https://github.com/Blan25ga/tp-final-nivel3-blanco-gabriel)
-Sistema de gestión para clubes deportivos (fútbol y pádel). Desarrollado con arquitectura multicapa, manejo de datos en SQL Server y panel administrativo completo.
+### ⚽ [Gestión Catalogo — TP Final Nivel 3](https://github.com/Blan25ga/tp-final-nivel3-blanco-gabriel)
+Desarrollado con arquitectura multicapa, manejo de datos en SQL Server y panel administrativo completo.
 
-- **Funcionalidades:** Autenticación, catálogo de productos, categorías, administración de usuarios y reserva/gestión.
+- **Funcionalidades:** Autenticación, catálogo de productos, categorías, administración de usuarios y gestión.
 - **Tech Stack:** `ASP.NET Web Forms` `C#` `SQL Server` `Bootstrap`
 
 [💻 Ver Repositorio](https://github.com/Blan25ga/tp-final-nivel3-blanco-gabriel)
@@ -87,13 +87,13 @@ Sistema de gestión para clubes deportivos (fútbol y pádel). Desarrollado con 
 </td>
 <td width="50%" valign="top">
 
-### 📦 [Gestión Catálogo — CatalogoApp](https://github.com/Blan25ga/CatalogoApp)
+### 📦 [Migración de portfolio a ASP.NET— Portfolio](https://github.com/Blan25ga/Portafolio_en_ASP.NET)
 Aplicación de escritorio para la administración integral de catálogos de artículos comercializables con persistencia relacional.
 
 - **Funcionalidades:** CRUD completo de artículos, búsqueda avanzada, filtrado dinámico y conexión a BD SQL Server.
 - **Tech Stack:** `C#` `Windows Forms` `.NET Framework` `SQL Server`
 
-[💻 Ver Repositorio](https://github.com/Blan25ga/CatalogoApp)
+[💻 Ver Repositorio](https://github.com/Blan25ga/Portafolio_en_ASP.NET)
 
 </td>
 </tr>
