@@ -16,14 +16,14 @@
 
 ## 👨‍💻 Perfil Profesional
 
-> Desarrollador **.NET Backend** con un background sólido en **gestión operativa y liderazgo de equipos**. Esta combinación me permite comprender la visión estratégica del negocio y traducirla en código eficiente, estructurado y mantenible.
+> Desarrollador **FullStack.NET** con un background sólido en **gestión operativa y liderazgo de equipos**. Esta combinación me permite comprender la visión estratégica del negocio y traducirla en código eficiente, estructurado y mantenible.
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### 📌 Enfoque Técnico & Experiencia
-- 🎯 **Backend .NET:** Especializado en C#, .NET Framework / Core, ASP.NET Web Forms y SQL Server.
+- 🎯 **FullStack.NET:** Especializado en C#, .NET Framework / Core, ASP.NET Web Forms y SQL Server.
 - 🛠️ **Visión de Negocio:** Ex Subgerente de Operaciones. Experto en optimización de procesos, análisis comercial y documentación.
 - ✈️ **Experiencia Internacional:** Working Holiday en Australia (2023–2024), fortaleciendo comunicación intercultural y adaptabilidad.
 - 🤝 **Colaboración:** Abierto a proyectos .NET backend, desarrollo de sistemas de gestión y software empresarial.
@@ -33,7 +33,7 @@
 
 ```yaml
 Nombre: Gabriel Hernán Blanco
-Rol: .NET Backend Developer
+Rol: FullStack .NET Developer
 Stack: C# · ASP.NET · SQL Server
 Background: Liderazgo & Operaciones
 Ubicación: San Antonio de Padua, AR 🇦🇷
@@ -88,10 +88,9 @@ Desarrollado con arquitectura multicapa, manejo de datos en SQL Server y panel a
 <td width="50%" valign="top">
 
 ### 📦 [Migración de portfolio a ASP.NET— Portfolio](https://github.com/Blan25ga/Portafolio_en_ASP.NET)
-Aplicación de escritorio para la administración integral de catálogos de artículos comercializables con persistencia relacional.
+Este repositorio contiene el código fuente de mi nuevo portafolio personal. El objetivo principal de este proyecto es realizar la migración desde mi arquitectura/stack anterior hacia ASP.NET Framework, aprovechando el ecosistema de .NET para implementar mejores prácticas de desarrollo backend, una estructura escalable y un renderizado eficiente.
 
-- **Funcionalidades:** CRUD completo de artículos, búsqueda avanzada, filtrado dinámico y conexión a BD SQL Server.
-- **Tech Stack:** `C#` `Windows Forms` `.NET Framework` `SQL Server`
+- **Tech Stack:** Visual Studio / VS Code, Git, GitHub / IA `C#` `Windows Forms` `.NET Framework` `SQL Server` `ASP.NET (MVC / Razor Pages)`
 
 [💻 Ver Repositorio](https://github.com/Blan25ga/Portafolio_en_ASP.NET)
 
