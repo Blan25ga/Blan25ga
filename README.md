@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0078D4,100:0D1117&height=120&section=header&text=Gabriel%20Blanco&fontSize=38&fontColor=ffffff" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=22&duration=2500&pause=900&color=0078D4&center=true&vCenter=true&width=600&lines=.NET+%26+Backend+Developer+%F0%9F%92%BB;C%23+%C2%B7+ASP.NET+%C2%B7+SQL+Server+%F0%9F%97%84%FE%8F;Ex+Operations+Manager+%26+Team+Leader+%F0%9F%93%88)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=22&duration=2500&pause=900&color=0078D4&center=true&vCenter=true&width=600&lines=.NET+%26+FullStack+Developer+%F0%9F%92%BB;C%23+%C2%B7+ASP.NET+%C2%B7+SQL+Server+%F0%9F%97%84%FE%8F;Ex+Operations+Manager+%26+Team+Leader+%F0%9F%93%88)](https://git.io/typing-svg)
 
 <p>
   <img src="https://img.shields.io/badge/📍_Ubicación-Buenos_Aires,_Argentina-0078D4?style=for-the-badge&labelColor=0D1117"/>
