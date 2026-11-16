@@ -86,21 +86,17 @@ Herramientas y Entornos
 <td width="50%" valign="top">
 
 ### Gestion de Catalogo - TP Final Nivel 3
-- **Descripcion:** Sistema de gestion para clubes deportivos con arquitectura multicapa, base de datos SQL Server y panel administrativo completo.
-- **Funcionalidades:** Autenticacion, catalogo de productos, categorias, administracion de usuarios y gestion de socios/reservas.
+- **Descripcion:** Sistema de gestion para clubes deportivos y catalogos con arquitectura multicapa, base de datos SQL Server y panel administrativo.
+- **Enlaces:** [Demo en vivo](http://www.gestioncatalogo-tpfinal-nivel3.somee.com) | [Repositorio](https://github.com/Blan25ga/tp-final-nivel3-blanco-gabriel)
 - **Tecnologias:** `ASP.NET Web Forms` `C#` `SQL Server` `Bootstrap`
-
-[Ver Repositorio](https://github.com/Blan25ga/tp-final-nivel3-blanco-gabriel)
 
 </td>
 <td width="50%" valign="top">
 
 ### Migracion de Portafolio a ASP.NET
 - **Descripcion:** Aplicacion web orientada a la administracion integral de catalogo de articulos comercializables con persistencia relacional.
-- **Funcionalidades:** CRUD completo de articulos, busqueda avanzada, filtrado dinamico y conexion optimizada a SQL Server.
+- **Enlaces:** [Repositorio](https://github.com/Blan25ga/Portafolio_en_ASP.NET)
 - **Tecnologias:** `C#` `Windows Forms` `.NET Framework` `SQL Server`
-
-[Ver Repositorio](https://github.com/Blan25ga/Portafolio_en_ASP.NET)
 
 </td>
 </tr>
@@ -109,7 +105,7 @@ Herramientas y Entornos
 
 ### Portafolio Web Personal V2.0
 - **Descripcion:** Sitio web personal interactivo para mostrar trayectoria profesional, stack tecnologico y proyectos destacados.
-- **Demo y Codigo:** [Demo en vivo](https://deploy-preview-2--gblancoportfolio.netlify.app/) | [Repositorio](https://github.com/Blan25ga/PortfolioV2.0)
+- **Enlaces:** [Demo en vivo](https://deploy-preview-2--gblancoportfolio.netlify.app/) | [Repositorio](https://github.com/Blan25ga/PortfolioV2.0)
 - **Tecnologias:** `HTML5` `CSS3` `JavaScript`
 
 </td>
