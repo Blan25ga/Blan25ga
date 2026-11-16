@@ -94,7 +94,7 @@ Herramientas y Entornos
 <td width="50%" valign="top">
 
 ### Migracion de Portafolio a ASP.NET
-- **Descripcion:** Aplicacion web orientada a la administracion integral de catalogo de articulos comercializables con persistencia relacional.
+- **Descripcion:** Este repositorio contiene el código fuente de mi nuevo portafolio personal. El objetivo principal de este proyecto es realizar la migración desde mi arquitectura/stack anterior hacia ASP.NET Framework, aprovechando el ecosistema de .NET para implementar mejores prácticas de desarrollo backend, una estructura escalable y un renderizado eficiente.
 - **Enlaces:** [Repositorio](https://github.com/Blan25ga/Portafolio_en_ASP.NET)
 - **Tecnologias:** `C#` `Windows Forms` `.NET Framework` `SQL Server`
 
