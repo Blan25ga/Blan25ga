@@ -2,41 +2,41 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0078D4,100:0D1117&height=120&section=header&text=Gabriel%20Blanco&fontSize=38&fontColor=ffffff" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=22&duration=2500&pause=900&color=0078D4&center=true&vCenter=true&width=600&lines=.NET+%26+Backend+Developer+%F0%9F%92%BB;C%23+%C2%B7+ASP.NET+%C2%B7+SQL+Server+%F0%9F%97%84%FE%8F;Ex+Operations+Manager+%26+Team+Leader+%F0%9F%93%88)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=22&duration=2500&pause=900&color=0078D4&center=true&vCenter=true&width=600&lines=Desarrollador+.NET+Backend+%F0%9F%92%BB;C%23+%C2%B7+ASP.NET+%C2%B7+SQL+Server+%F0%9F%97%84%FE%8F;Ex+Jefe+de+Operaciones+y+Lider+de+Equipos+%F0%9F%93%88)](https://git.io/typing-svg)
 
 <p>
-  <img src="https://img.shields.io/badge/📍_Ubicación-Buenos_Aires,_Argentina-0078D4?style=for-the-badge&labelColor=0D1117"/>
-  <a href="https://www.linkedin.com/in/gabrielhernanblanco/" target="_blank"><img src="https://img.shields.io/badge/💼_LinkedIn-gabrielhernanblanco-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117"/></a>
-  <img src="https://komarev.com/ghpvc/?username=Blan25ga&style=for-the-badge&color=0078D4&labelColor=0D1117&label=PROFILE+VIEWS"/>
+  <img src="https://img.shields.io/badge/Ubicacion-Buenos_Aires,_Argentina-0078D4?style=for-the-badge&labelColor=0D1117"/>
+  <a href="https://www.linkedin.com/in/gabrielhernanblanco/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-gabrielhernanblanco-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117"/></a>
+  <img src="https://komarev.com/ghpvc/?username=Blan25ga&style=for-the-badge&color=0078D4&labelColor=0D1117&label=VISTAS_DEL_PERFIL"/>
 </p>
 
 </div>
 
 <br/>
 
-## 👨‍💻 Perfil Profesional
+## Perfil Profesional
 
-> Desarrollador **.NET Backend** con un background sólido en **gestión operativa y liderazgo de equipos**. Esta combinación me permite comprender la visión estratégica del negocio y traducirla en código eficiente, estructurado y mantenible.
+Desarrollador .NET Backend con experiencia en gestion operativa y liderazgo de equipos. Esta combinacion me permite entender la vision del negocio y traducirla en codigo eficiente y mantenible.
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 📌 Enfoque Técnico & Experiencia
-- 🎯 **Backend .NET:** Especializado en C#, .NET Framework / Core, ASP.NET Web Forms y SQL Server.
-- 🛠️ **Visión de Negocio:** Ex Subgerente de Operaciones. Experto en optimización de procesos, análisis comercial y documentación.
-- ✈️ **Experiencia Internacional:** Working Holiday en Australia (2023–2024), fortaleciendo comunicación intercultural y adaptabilidad.
-- 🤝 **Colaboración:** Abierto a proyectos .NET backend, desarrollo de sistemas de gestión y software empresarial.
+### Enfoque Tecnico y Experiencia
+- Backend .NET: Especializado en C#, .NET Framework, ASP.NET Core, ASP.NET Web Forms y SQL Server.
+- Vision de Negocio: Ex Subgerente de Operaciones. Experto en optimizacion de procesos, analisis comercial y documentacion.
+- Experiencia Internacional: Working Holiday en Australia (2023-2024), fortaleciendo comunicacion intercultural y adaptabilidad.
+- Colaboracion: Abierto a proyectos .NET backend, sistemas de gestion y software empresarial.
 
 </td>
 <td width="50%" valign="top">
 
 ```yaml
-Nombre: Gabriel Hernán Blanco
-Rol: .NET Backend Developer
-Stack: C# · ASP.NET · SQL Server
-Background: Liderazgo & Operaciones
-Ubicación: San Antonio de Padua, AR 🇦🇷
+Nombre: Gabriel Hernan Blanco
+Rol: Desarrollador .NET Backend
+Stack: C#, ASP.NET, SQL Server
+Experiencia: Liderazgo y Operaciones
+Ubicacion: San Antonio de Padua, Argentina
 Contacto: linkedin.com/in/gabrielhernanblanco
 ```
 
@@ -46,23 +46,23 @@ Contacto: linkedin.com/in/gabrielhernanblanco
 
 <br/>
 
-## 🛠️ Stack Tecnológico
+## Stack Tecnologico
 
 <div align="center">
 
-**Backend & Bases de Datos**  
+Backend y Bases de Datos
 <br/>
 <img src="https://skillicons.dev/icons?i=cs,dotnet" /> <img src="https://img.shields.io/badge/ASP.NET_Web_Forms-512BD4?style=for-the-badge&logo=.net&logoColor=white"/> <img src="https://img.shields.io/badge/Windows_Forms-0078D4?style=for-the-badge&logo=windows&logoColor=white"/> <img src="https://img.shields.io/badge/SQL_Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
 
 <br/><br/>
 
-**Frontend & Web**  
+Frontend y Web
 <br/>
 <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react" />
 
 <br/><br/>
 
-**Herramientas & Entornos**  
+Herramientas y Entornos
 <br/>
 <img src="https://skillicons.dev/icons?i=git,github,vscode" /> <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"/>
 
@@ -70,50 +70,50 @@ Contacto: linkedin.com/in/gabrielhernanblanco
 
 <br/>
 
-## 📂 Proyectos Destacados
+## Proyectos Destacados
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### ⚽ [Gestión Catalogo — TP Final Nivel 3](https://github.com/Blan25ga/tp-final-nivel3-blanco-gabriel)
-Desarrollado con arquitectura multicapa, manejo de datos en SQL Server y panel administrativo completo.
+### Gestion de Catalogo - TP Final Nivel 3
+Sistema de gestion para clubes deportivos con arquitectura multicapa, base de datos SQL Server y panel administrativo.
 
-- **Funcionalidades:** Autenticación, catálogo de productos, categorías, administración de usuarios y gestión.
-- **Tech Stack:** `ASP.NET Web Forms` `C#` `SQL Server` `Bootstrap`
+- Funcionalidades: Autenticacion, catalogo de productos, categorias, administracion de usuarios y gestion.
+- Tecnologias: ASP.NET Web Forms, C#, SQL Server, Bootstrap
 
-[💻 Ver Repositorio](https://github.com/Blan25ga/tp-final-nivel3-blanco-gabriel)
+[Ver Repositorio](https://github.com/Blan25ga/tp-final-nivel3-blanco-gabriel)
 
 </td>
 <td width="50%" valign="top">
 
-### 📦 [Migración de portfolio a ASP.NET— Portfolio](https://github.com/Blan25ga/Portafolio_en_ASP.NET)
-Aplicación de escritorio para la administración integral de catálogos de artículos comercializables con persistencia relacional.
+### Migracion de Portafolio a ASP.NET - Portfolio
+Aplicacion web para administrar catalogo de articulos comercializables con persistencia en SQL Server.
 
-- **Funcionalidades:** CRUD completo de artículos, búsqueda avanzada, filtrado dinámico y conexión a BD SQL Server.
-- **Tech Stack:** `C#` `Windows Forms` `.NET Framework` `SQL Server`
+- Funcionalidades: CRUD de articulos, busqueda avanzada, filtrado dinamico y conexion a base de datos SQL Server.
+- Tecnologias: C#, Windows Forms, .NET Framework, SQL Server
 
-[💻 Ver Repositorio](https://github.com/Blan25ga/Portafolio_en_ASP.NET)
+[Ver Repositorio](https://github.com/Blan25ga/Portafolio_en_ASP.NET)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 💼 [Portafolio Web Personal — V2.0](https://deploy-preview-2--gblancoportfolio.netlify.app/)
-Sitio web personal donde presento mi trayectoria, stack tecnológico y proyectos.
+### Portafolio Web Personal V2.0
+Sitio web personal con trayectoria, stack tecnologico y proyectos.
 
-- **Tech Stack:** `HTML5` `CSS3` `JavaScript`
-- [🌐 Demo en vivo](https://deploy-preview-2--gblancoportfolio.netlify.app/) | [💻 Repositorio](https://github.com/Blan25ga/PortfolioV2.0)
+- Tecnologias: HTML5, CSS3, JavaScript
+- [Demo en vivo](https://deploy-preview-2--gblancoportfolio.netlify.app/) | [Repositorio](https://github.com/Blan25ga/PortfolioV2.0)
 
 </td>
 <td width="50%" valign="top">
 
-### ⚡ [Proyectos Frontend (Clima & Pokedex)](https://github.com/Blan25ga)
-Desarrollo de aplicaciones web interactivas con consumo de APIs REST y manipulación del DOM.
+### Proyectos Frontend Clima y Pokedex
+Aplicaciones web interactivas con consumo de APIs REST y manipulacion del DOM.
 
-- [🌐 Clima App](https://appclima-1.netlify.app/) | [🌐 Pokedex](https://pokedex-po.netlify.app/)
-- **Tech Stack:** `JavaScript` `HTML5` `CSS3` `REST APIs`
+- [Clima App](https://appclima-1.netlify.app/) | [Pokedex](https://pokedex-po.netlify.app/)
+- Tecnologias: JavaScript, HTML5, CSS3, APIs REST
 
 </td>
 </tr>
@@ -121,29 +121,29 @@ Desarrollo de aplicaciones web interactivas con consumo de APIs REST y manipulac
 
 <br/>
 
-## 🎓 Certificaciones & Estudios
+## Certificaciones y Estudios
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/🎓_Programación_Desde_Cero-Maxi_Programa-0078D4?style=for-the-badge&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/💻_C%23_Nivel_1_(Desde_Cero)-Maxi_Programa-0078D4?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Programacion_Desde_Cero-Maxi_Programa-0078D4?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/C%23_Nivel_1_Desde_Cero-Maxi_Programa-0078D4?style=for-the-badge&labelColor=0D1117"/>
 <br/>
-<img src="https://img.shields.io/badge/🗄️_C%23_Nivel_2_(.NET_%2B_SQL_Server)-Maxi_Programa-0078D4?style=for-the-badge&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/🌐_C%23_Nivel_3_(ASP.NET_Web_Forms)-Maxi_Programa-0078D4?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/C%23_Nivel_2_.NET_SQL_Server-Maxi_Programa-0078D4?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/C%23_Nivel_3_ASP.NET_Web_Forms-Maxi_Programa-0078D4?style=for-the-badge&labelColor=0D1117"/>
 <br/>
-<img src="https://img.shields.io/badge/🎨_HTML_%26_CSS-Open_Bootcamp-0078D4?style=for-the-badge&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/⚡_JavaScript-Open_Bootcamp-0078D4?style=for-the-badge&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/🗣️_Presentaciones_Efectivas-Certificación-0078D4?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/HTML_y_CSS-Open_Bootcamp-0078D4?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/JavaScript-Open_Bootcamp-0078D4?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Presentaciones_Efectivas-Certificacion-0078D4?style=for-the-badge&labelColor=0D1117"/>
 
 <br/><br/>
 
-[![Mis Certificados](https://img.shields.io/badge/📜_Ver_Repositorio_de_Certificados-0078D4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Blan25ga/My-Certificates)
+[Ver Repositorio de Certificados](https://github.com/Blan25ga/My-Certificates)
 
 </div>
 
 <br/>
 
-## 📊 Estadísticas de GitHub
+## Estadisticas de GitHub
 
 <div align="center">
 
@@ -154,13 +154,13 @@ Desarrollo de aplicaciones web interactivas con consumo de APIs REST y manipulac
 
 <br/>
 
-## 🌐 Contacto & Redes
+## Contacto y Redes
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielhernanblanco/)
-[![Portafolio](https://img.shields.io/badge/Portafolio_Web-0078D4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://deploy-preview-2--gblancoportfolio.netlify.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Blan25ga)
+[LinkedIn](https://www.linkedin.com/in/gabrielhernanblanco/)
+[Portafolio Web](https://deploy-preview-2--gblancoportfolio.netlify.app/)
+[GitHub](https://github.com/Blan25ga)
 
 </div>
 
