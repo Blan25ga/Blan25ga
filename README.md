@@ -100,11 +100,11 @@ Aplicación de escritorio para la administración integral de catálogos de art�
 <tr>
 <td width="50%" valign="top">
 
-### 💼 [Portafolio Web Personal — V2.0](https://deploy-preview-1--gblancoportfolio.netlify.app/)
+### 💼 [Portafolio Web Personal — V2.0](https://deploy-preview-2--gblancoportfolio.netlify.app/)
 Sitio web personal donde presento mi trayectoria, stack tecnológico y proyectos.
 
 - **Tech Stack:** `HTML5` `CSS3` `JavaScript`
-- [🌐 Demo en vivo](https://deploy-preview-1--gblancoportfolio.netlify.app/) | [💻 Repositorio](https://github.com/Blan25ga/PortfolioV2.0)
+- [🌐 Demo en vivo](https://deploy-preview-2--gblancoportfolio.netlify.app/) | [💻 Repositorio](https://github.com/Blan25ga/PortfolioV2.0)
 
 </td>
 <td width="50%" valign="top">
@@ -159,7 +159,7 @@ Desarrollo de aplicaciones web interactivas con consumo de APIs REST y manipulac
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielhernanblanco/)
-[![Portafolio](https://img.shields.io/badge/Portafolio_Web-0078D4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://deploy-preview-1--gblancoportfolio.netlify.app/)
+[![Portafolio](https://img.shields.io/badge/Portafolio_Web-0078D4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://deploy-preview-2--gblancoportfolio.netlify.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Blan25ga)
 
 </div>
