@@ -72,26 +72,33 @@ Herramientas y Entornos
 
 ## Proyectos Destacados
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Blan25ga&repo=tp-final-nivel3-blanco-gabriel&theme=tokyonight&show_owner=true&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Blan25ga&repo=Portafolio_en_ASP.NET&theme=tokyonight&show_owner=true&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Blan25ga&repo=PortfolioV2.0&theme=tokyonight&show_owner=true&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Blan25ga&repo=My-Certificates&theme=tokyonight&show_owner=true&hide_border=true" width="48%"/>
+</div>
+
+<br/>
+
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### Gestion de Catalogo - TP Final Nivel 3
-Sistema de gestion para clubes deportivos con arquitectura multicapa, base de datos SQL Server y panel administrativo.
-
-- Funcionalidades: Autenticacion, catalogo de productos, categorias, administracion de usuarios y gestion.
-- Tecnologias: ASP.NET Web Forms, C#, SQL Server, Bootstrap
+- **Descripcion:** Sistema de gestion para clubes deportivos con arquitectura multicapa, base de datos SQL Server y panel administrativo completo.
+- **Funcionalidades:** Autenticacion, catalogo de productos, categorias, administracion de usuarios y gestion de socios/reservas.
+- **Tecnologias:** `ASP.NET Web Forms` `C#` `SQL Server` `Bootstrap`
 
 [Ver Repositorio](https://github.com/Blan25ga/tp-final-nivel3-blanco-gabriel)
 
 </td>
 <td width="50%" valign="top">
 
-### Migracion de Portafolio a ASP.NET - Portfolio
-Aplicacion web para administrar catalogo de articulos comercializables con persistencia en SQL Server.
-
-- Funcionalidades: CRUD de articulos, busqueda avanzada, filtrado dinamico y conexion a base de datos SQL Server.
-- Tecnologias: C#, Windows Forms, .NET Framework, SQL Server
+### Migracion de Portafolio a ASP.NET
+- **Descripcion:** Aplicacion web orientada a la administracion integral de catalogo de articulos comercializables con persistencia relacional.
+- **Funcionalidades:** CRUD completo de articulos, busqueda avanzada, filtrado dinamico y conexion optimizada a SQL Server.
+- **Tecnologias:** `C#` `Windows Forms` `.NET Framework` `SQL Server`
 
 [Ver Repositorio](https://github.com/Blan25ga/Portafolio_en_ASP.NET)
 
@@ -101,19 +108,17 @@ Aplicacion web para administrar catalogo de articulos comercializables con persi
 <td width="50%" valign="top">
 
 ### Portafolio Web Personal V2.0
-Sitio web personal con trayectoria, stack tecnologico y proyectos.
-
-- Tecnologias: HTML5, CSS3, JavaScript
-- [Demo en vivo](https://deploy-preview-2--gblancoportfolio.netlify.app/) | [Repositorio](https://github.com/Blan25ga/PortfolioV2.0)
+- **Descripcion:** Sitio web personal interactivo para mostrar trayectoria profesional, stack tecnologico y proyectos destacados.
+- **Demo y Codigo:** [Demo en vivo](https://deploy-preview-2--gblancoportfolio.netlify.app/) | [Repositorio](https://github.com/Blan25ga/PortfolioV2.0)
+- **Tecnologias:** `HTML5` `CSS3` `JavaScript`
 
 </td>
 <td width="50%" valign="top">
 
-### Proyectos Frontend Clima y Pokedex
-Aplicaciones web interactivas con consumo de APIs REST y manipulacion del DOM.
-
-- [Clima App](https://appclima-1.netlify.app/) | [Pokedex](https://pokedex-po.netlify.app/)
-- Tecnologias: JavaScript, HTML5, CSS3, APIs REST
+### Proyectos Frontend (Clima y Pokedex)
+- **Descripcion:** Desarrollo de aplicaciones web interactivas con consumo de APIs REST y manipulacion avanzada del DOM.
+- **Enlaces:** [Clima App](https://appclima-1.netlify.app/) | [Pokedex](https://pokedex-po.netlify.app/)
+- **Tecnologias:** `JavaScript` `HTML5` `CSS3` `APIs REST`
 
 </td>
 </tr>
