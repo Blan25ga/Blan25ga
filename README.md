@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0078D4,100:0D1117&height=120&section=header&text=Gabriel%20Blanco&fontSize=38&fontColor=ffffff" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=22&duration=2500&pause=900&color=0078D4&center=true&vCenter=true&width=600&lines=.NET+%26+FullStack+Developer+%F0%9F%92%BB;C%23+%C2%B7+ASP.NET+%C2%B7+SQL+Server+%F0%9F%97%84%FE%8F;Ex+Operations+Manager+%26+Team+Leader+%F0%9F%93%88)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=22&duration=2500&pause=900&color=0078D4&center=true&vCenter=true&width=600&lines=.NET+%26+Backend+Developer+%F0%9F%92%BB;C%23+%C2%B7+ASP.NET+%C2%B7+SQL+Server+%F0%9F%97%84%FE%8F;Ex+Operations+Manager+%26+Team+Leader+%F0%9F%93%88)](https://git.io/typing-svg)
 
 <p>
   <img src="https://img.shields.io/badge/📍_Ubicación-Buenos_Aires,_Argentina-0078D4?style=for-the-badge&labelColor=0D1117"/>
@@ -16,14 +16,14 @@
 
 ## 👨‍💻 Perfil Profesional
 
-> Desarrollador **FullStack.NET** con un background sólido en **gestión operativa y liderazgo de equipos**. Esta combinación me permite comprender la visión estratégica del negocio y traducirla en código eficiente, estructurado y mantenible.
+> Desarrollador **.NET Backend** con un background sólido en **gestión operativa y liderazgo de equipos**. Esta combinación me permite comprender la visión estratégica del negocio y traducirla en código eficiente, estructurado y mantenible.
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### 📌 Enfoque Técnico & Experiencia
-- 🎯 **FullStack.NET:** Especializado en C#, .NET Framework / Core, ASP.NET Web Forms y SQL Server.
+- 🎯 **Backend .NET:** Especializado en C#, .NET Framework / Core, ASP.NET Web Forms y SQL Server.
 - 🛠️ **Visión de Negocio:** Ex Subgerente de Operaciones. Experto en optimización de procesos, análisis comercial y documentación.
 - ✈️ **Experiencia Internacional:** Working Holiday en Australia (2023–2024), fortaleciendo comunicación intercultural y adaptabilidad.
 - 🤝 **Colaboración:** Abierto a proyectos .NET backend, desarrollo de sistemas de gestión y software empresarial.
@@ -33,7 +33,7 @@
 
 ```yaml
 Nombre: Gabriel Hernán Blanco
-Rol: FullStack .NET Developer
+Rol: .NET Backend Developer
 Stack: C# · ASP.NET · SQL Server
 Background: Liderazgo & Operaciones
 Ubicación: San Antonio de Padua, AR 🇦🇷
@@ -88,9 +88,10 @@ Desarrollado con arquitectura multicapa, manejo de datos en SQL Server y panel a
 <td width="50%" valign="top">
 
 ### 📦 [Migración de portfolio a ASP.NET— Portfolio](https://github.com/Blan25ga/Portafolio_en_ASP.NET)
-Este repositorio contiene el código fuente de mi nuevo portafolio personal. El objetivo principal de este proyecto es realizar la migración desde mi arquitectura/stack anterior hacia ASP.NET Framework, aprovechando el ecosistema de .NET para implementar mejores prácticas de desarrollo backend, una estructura escalable y un renderizado eficiente.
+Aplicación de escritorio para la administración integral de catálogos de artículos comercializables con persistencia relacional.
 
-- **Tech Stack:** Visual Studio / VS Code, Git, GitHub / IA `C#` `Windows Forms` `.NET Framework` `SQL Server` `ASP.NET (MVC / Razor Pages)`
+- **Funcionalidades:** CRUD completo de artículos, búsqueda avanzada, filtrado dinámico y conexión a BD SQL Server.
+- **Tech Stack:** `C#` `Windows Forms` `.NET Framework` `SQL Server`
 
 [💻 Ver Repositorio](https://github.com/Blan25ga/Portafolio_en_ASP.NET)
 
@@ -99,11 +100,11 @@ Este repositorio contiene el código fuente de mi nuevo portafolio personal. El 
 <tr>
 <td width="50%" valign="top">
 
-### 💼 [Portafolio Web Personal](https://portafolio-actualizado.netlify.app/)
+### 💼 [Portafolio Web Personal — V2.0](https://deploy-preview-1--gblancoportfolio.netlify.app/)
 Sitio web personal donde presento mi trayectoria, stack tecnológico y proyectos.
 
 - **Tech Stack:** `HTML5` `CSS3` `JavaScript`
-- [🌐 Demo en vivo](https://portafolio-actualizado.netlify.app/) | [💻 Repositorio](https://github.com/Blan25ga/portfolio-act)
+- [🌐 Demo en vivo](https://deploy-preview-1--gblancoportfolio.netlify.app/) | [💻 Repositorio](https://github.com/Blan25ga/PortfolioV2.0)
 
 </td>
 <td width="50%" valign="top">
@@ -158,7 +159,7 @@ Desarrollo de aplicaciones web interactivas con consumo de APIs REST y manipulac
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielhernanblanco/)
-[![Portafolio](https://img.shields.io/badge/Portafolio_Web-0078D4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://portafolio-actualizado.netlify.app/)
+[![Portafolio](https://img.shields.io/badge/Portafolio_Web-0078D4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://deploy-preview-1--gblancoportfolio.netlify.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Blan25ga)
 
 </div>
