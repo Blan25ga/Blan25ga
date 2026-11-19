@@ -132,7 +132,7 @@ Herramientas y Entornos
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Blan25ga&repo=My-Certificates&theme=tokyonight&show_owner=true&hide_border=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Blan25ga&repo=My-Certificates&theme=tokyonight&show_owner=true&hide_border=true" width="100%"/>
 
 <br/><br/>
 
