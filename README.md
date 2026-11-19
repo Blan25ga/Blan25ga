@@ -131,7 +131,7 @@ Herramientas y Entornos
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Blan25ga&repo=My-Certificates&theme=tokyonight&show_owner=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Blan25ga&repo=My-Certificates&theme=tokyonight&show_owner=true&hide_border=true" width="80%"/>
 
 <br/><br/>
 
@@ -159,6 +159,17 @@ Herramientas y Entornos
 <a href="https://github.com/Blan25ga/My-Certificates">📜 Ver Certificado</a>
 
 </div>
+</div>
+
+<br/>
+
+## Estadisticas de GitHub
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Blan25ga&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Blan25ga&theme=tokyonight&hide_border=true" height="165"/>
+
 </div>
 
 <br/>
