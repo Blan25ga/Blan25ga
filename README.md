@@ -7,7 +7,6 @@
 <p>
   <img src="https://img.shields.io/badge/Ubicacion-Buenos_Aires,_Argentina-0078D4?style=for-the-badge&labelColor=0D1117"/>
   <a href="https://www.linkedin.com/in/gabrielhernanblanco/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-gabrielhernanblanco-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117"/></a>
-  <img src="https://komarev.com/ghpvc/?username=Blan25ga&style=for-the-badge&color=0078D4&labelColor=0D1117&label=VISTAS_DEL_PERFIL"/>
 </p>
 
 </div>
@@ -136,31 +135,30 @@ Herramientas y Entornos
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Programacion_Desde_Cero-Maxi_Programa-0078D4?style=for-the-badge&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/C%23_Nivel_1_Desde_Cero-Maxi_Programa-0078D4?style=for-the-badge&labelColor=0D1117"/>
-<br/>
-<img src="https://img.shields.io/badge/C%23_Nivel_2_.NET_SQL_Server-Maxi_Programa-0078D4?style=for-the-badge&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/C%23_Nivel_3_ASP.NET_Web_Forms-Maxi_Programa-0078D4?style=for-the-badge&labelColor=0D1117"/>
-<br/>
-<img src="https://img.shields.io/badge/HTML_y_CSS-Open_Bootcamp-0078D4?style=for-the-badge&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/JavaScript-Open_Bootcamp-0078D4?style=for-the-badge&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/Presentaciones_Efectivas-Certificacion-0078D4?style=for-the-badge&labelColor=0D1117"/>
+<div style="font-size: 1.2em; line-height: 2em; text-align: center;">
 
-<br/><br/>
+### 🎓 Programación desde Cero (Maxi Programa)
+<a href="https://github.com/Blan25ga/My-Certificates">📜 Ver Certificado</a>
 
-[Ver Repositorio de Certificados](https://github.com/Blan25ga/My-Certificates)
+### 💻 C# Nivel 1 - Desde Cero (Maxi Programa)
+<a href="https://github.com/Blan25ga/My-Certificates">📜 Ver Certificado</a>
+
+### 🗄️ C# Nivel 2 - .NET y SQL Server (Maxi Programa)
+<a href="https://github.com/Blan25ga/My-Certificates">📜 Ver Certificado</a>
+
+### 🌐 C# Nivel 3 - ASP.NET Web Forms (Maxi Programa)
+<a href="https://github.com/Blan25ga/My-Certificates">📜 Ver Certificado</a>
+
+### 🎨 HTML y CSS (Open Bootcamp)
+<a href="https://github.com/Blan25ga/My-Certificates">📜 Ver Certificado</a>
+
+### ⚡ JavaScript (Open Bootcamp)
+<a href="https://github.com/Blan25ga/My-Certificates">📜 Ver Certificado</a>
+
+### 🗣️ Presentaciones Efectivas (Certificación)
+<a href="https://github.com/Blan25ga/My-Certificates">📜 Ver Certificado</a>
 
 </div>
-
-<br/>
-
-## Estadisticas de GitHub
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Blan25ga&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Blan25ga&theme=tokyonight&hide_border=true" height="165"/>
-
 </div>
 
 <br/>
